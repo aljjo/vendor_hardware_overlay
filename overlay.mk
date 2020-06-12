@@ -76,6 +76,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-camon11 \
 	treble-overlay-umidigi-power \
 	treble-overlay-vsmart-live \
+	treble-overlay-vsmart-live-systemui \
 	treble-overlay-webview \
 	treble-overlay-wifi5g \
 	treble-overlay-xiaomi-mi6x \
